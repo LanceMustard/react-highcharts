@@ -5,3 +5,5 @@ Implements very basic [Highcharts](https://www.highcharts.com/) React component 
 - Bar chart
 - Pie chart
 - Scatter plot
+
+View in [CodeSandbox](https://codesandbox.io/s/54y7yw1nvp)
